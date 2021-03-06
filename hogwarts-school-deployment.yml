@@ -47,7 +47,7 @@ metadata:
     nginx.ingress.kubernetes.io/rewrite-target: /
 spec:
   rules:
-  - host: hogwarts.belajarlinux.web.id
+  - host: hogwarts.jokoss.site
     http:
       paths:
       #- path: /
